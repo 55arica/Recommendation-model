@@ -1,0 +1,7 @@
+https://www.tensorflow.org/recommenders/examples/diststrat_retrieval
+
+https://www.tensorflow.org/recommenders/examples/sequential_retrieval
+
+https://www.datacamp.com/tutorial/recommender-systems-python
+
+https://www.geeksforgeeks.org/recommendation-system-in-python/
